@@ -1,5 +1,5 @@
 # Myportfolio
-My Personal Portfolio
+
 A Software Engineer/ Front-End Developer with growing knowledge and experience with
 
 - React
