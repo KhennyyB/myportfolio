@@ -235,7 +235,7 @@ footer {
 footer > p {
 	color: #fd7f00;
 	font-weight: 700;
-	margin-bottom: 20px;
+	margin-bottom: 15px;
 }
 footer > a{
 	padding: 10px;
@@ -439,7 +439,7 @@ footer > a{
 		font-size: 25px;
 	}
 	#about .text{
-		font-size: 21px;
+		font-size: 18px;
 	}
 	#home-section section .kenny {
 		font-size: 40px;
@@ -468,6 +468,9 @@ footer > a{
 	.cv {
 		padding: 10px 20px;
 		font-size: 15px;
+	}
+	#projects-section > div img {
+		width: 100%;
 	}
 	#contact-section > div > h1 {
 		font-size: 18px;
